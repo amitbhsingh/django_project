@@ -79,3 +79,6 @@ https://www.youtube.com/redirect?q=https%3A%2F%2Fdocs.djangoproject.com%2Fen%2F2
 ## Video 17 Deploying on heroku
 * heroku run python manage.py migrate #
 * heroku run bash # opens the heroku bash linux command
+# heroku Delploying app on heroku
+* 1 heroku create appname
+* 2 
