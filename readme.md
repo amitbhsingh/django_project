@@ -81,4 +81,7 @@ https://www.youtube.com/redirect?q=https%3A%2F%2Fdocs.djangoproject.com%2Fen%2F2
 * heroku run bash # opens the heroku bash linux command
 # heroku Delploying app on heroku
 * 1 heroku create appname
-* 2 
+* Creating a database
+* creating superuser
+* 2 heroku run bash => to run the heroku bash
+* heroku machines are called dynos and they are linux based so we need to run linux commands
